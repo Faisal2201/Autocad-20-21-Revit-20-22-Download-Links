@@ -1,4 +1,4 @@
-# Autocad- 2020 to 2021 & Revit 2020 to 2022-Download-Links
+# Autocad- 2020 to 2022 & Revit 2020 to 2022-Download-Links
 
 
 
@@ -10,7 +10,8 @@ https://efulfillment.autodesk.com/NetSWDLD/2020/ACD/A67710D5-98AE-4DD9-8EBE-2E12
 
 https://efulfillment.autodesk.com/NetSWDLD/2021/ACD/80A03A2D-8FA9-43FD-9B26-1604CAD1D9CF/SFX/AutoCAD_2021_English_Win_64bit_dlm.sfx.exe?authparam=1625121445_a1bfab4220c0068dbd462e955caffba4&SESSION_ID=1623321445676&ext=.exe
 
-
+**Autocad 2022**
+https://efulfillment.autodesk.com/NetSWDLD/2022/ACD/1E7D4EF7-A28E-3D3E-BA3C-C6FAE4AAB2E0/SFX/AutoCAD_2022_English_Win_64bit_dlm.sfx.exe?authparam=1618291933_d7cc7d02c3d1c1ba5008fd93710ed6d8&SESSION_ID=1616491933012&ext=.exe&_gl=1*1ytoxgq*_ga*MTg1Mzk2NDU0My4xNzg5ODI0NzE3*_ga_NZSJ72N6RX*czE3ODk4MjQ3MjckbzEkZzEkdDE3ODk4MjU1ODMkajI2JGwwJGgw&_ga=2.231626200.657282029.1789824729-1853964543.1789824717
 
 
 
